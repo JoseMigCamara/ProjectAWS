@@ -1,5 +1,5 @@
-# Setting up the Machines
-## INOVA
+## Setting up the Machines
+### INOVA
 ```
 sudo hostnamectl set-hostname control.inova.pt
 ```
@@ -22,12 +22,9 @@ ip a
 
 ```
 nano /etc/netplan/55
+
 ```
-
-
-
-
-## ENTA
+### ENTA
 ```
 sudo hostnamectl set-hostname control.enta.pt
 ```
@@ -48,7 +45,7 @@ cp -r /usr/share/easy-rsa/3/ /etc/
 ip a
 ```
 
-## Remote Client
+### Remote Client
 ```
 sudo hostnamectl set-hostname remote.client.pt
 ```
