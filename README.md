@@ -15,6 +15,7 @@ description
 
 2| Part A - Router
 
+Setting up the Control and Remote Client machines
 1. Certificates, CA and sub CA
 2. Open VPN Site to Site
 3. Open VPN Remote Access
@@ -24,6 +25,7 @@ description
 
 3| Part B - Site and FTP
 
+Setting up the DMZ machines
 1. HTTP/S | Ubuntu (NGINX)
 2. HTTP/S | EC2 (Apache)
 3. FTP | Ubuntu (ProFTP)
@@ -31,6 +33,7 @@ description
 
 4| PART C - RAIDS
 
+Setting up the Central Machines
 1. RAID5 - LVM - LUKS | Ubuntu
 2. RAID6 - LUKS - LVM | EC2
 3. RAID5 - LVM - LUKS | Ubuntu
