@@ -1,3 +1,6 @@
+First and foremost let's look at the project and define the diferent subnets, and private IPs for each machine.
+
+We will also define the services which machine will have it and what packages we will choose to install.
 
 ![IP](https://user-images.githubusercontent.com/98809671/153718181-d72a81f7-4952-4fc2-b21d-53d3217c0f59.jpg)
 
