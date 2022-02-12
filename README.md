@@ -9,7 +9,7 @@ description
 
 2| Part A - Router
 
-2.1| Certiifcates, CA and sub CA
+2.1| Certificates, CA and sub CA
 
 2.2| Open VPN Site to Site
 
