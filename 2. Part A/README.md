@@ -50,7 +50,7 @@ ip a
 
 ## Remote Client
 ```
-sudo hostnamectl set-hostname control.enta.pt
+sudo hostnamectl set-hostname remote.client.pt
 ```
 
 ```
