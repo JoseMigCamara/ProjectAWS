@@ -21,7 +21,7 @@ ip a
 ```
 
 ```
-nano /etc/netplan/55
+nano /etc/netplan/50-cloud-init.yaml
 
 ```
 ### ENTA
