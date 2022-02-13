@@ -33,7 +33,10 @@ amazon-linux-extras install epel
 yum install -y easy-rsa openvpn bind iptables-services
 ```
 ```
-cp -r /usr/share/easy-rsa/3/ /etc/easy-rsa/
+mkdir /etc/easy-rsa/
+```
+```
+cp -r /usr/share/easy-rsa/3/* /etc/easy-rsa/
 ```
 ```
 ip a
@@ -53,5 +56,8 @@ amazon-linux-extras install epel
 apt install -y easy-rsa openvpn
 ```
 ```
-cp -r /usr/share/easy-rsa/3/ /etc/easy-rsa/
+mkdir /etc/easy-rsa/
+```
+```
+cp -r /usr/share/easy-rsa/3/* /etc/easy-rsa/
 ```
