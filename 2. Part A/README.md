@@ -27,7 +27,10 @@ sudo hostnamectl set-hostname control.enta.pt
 sudo su -
 ```
 ```
-apt install -y easy-rsa openvpn bind iptables-services
+amazon-linux-extras install epel
+```
+```
+yum install -y easy-rsa openvpn bind iptables-services
 ```
 ```
 cp -r /usr/share/easy-rsa/3/ /etc/
@@ -42,6 +45,9 @@ sudo hostnamectl set-hostname remote.client.pt
 ```
 ```
 sudo su -
+```
+```
+amazon-linux-extras install epel
 ```
 ```
 apt install -y easy-rsa openvpn
