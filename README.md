@@ -41,8 +41,8 @@ Setting up the Central Machines
 
 5| Part D - NFS and NIS servers
 
-1. [NFS and NIS | Ubuntu](https://github.com/rodrigobosilva/ProjectAWS/blob/main/5.%20Part%20D/inova.md)
-2. [NFS and NIS | EC2](https://github.com/rodrigobosilva/ProjectAWS/blob/main/5.%20Part%20D/enta.md)
+1. [NFS and NIS | Ubuntu](https://github.com/rodrigobosilva/ProjectAWS/blob/main/5.%20Part%20D/nfs_nis_inova.md)
+2. [NFS and NIS | EC2](https://github.com/rodrigobosilva/ProjectAWS/blob/main/5.%20Part%20D/nfs_nis_enta.md)
 
 6| Part E - Mail Server
 
