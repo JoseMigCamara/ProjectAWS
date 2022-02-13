@@ -13,8 +13,8 @@ nano /etc/netplan/50-cloud-init.yaml
 ```
 ```
 dhcp4-overrides:
-    use-dns:false
-    use-routes:false
+    use-dns: false
+    use-routes: false
 ```
 ```
 nameservers:
