@@ -1,8 +1,13 @@
 ## Setting up the machines
 ## INOVA
 ### Internet Access
+#### central.inova.pt
 ```
 sudo hostnamectl set-hostname central.inova.pt
+```
+#### wazuh.inova.pt
+```
+sudo hostnamectl set-hostname wazuh.inova.pt
 ```
 ```
 sudo su -
