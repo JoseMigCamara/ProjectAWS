@@ -7,8 +7,9 @@ sudo hostnamectl set-hostname control.inova.pt
 sudo su -
 ```
 ```
-apt install -y easy-rsa openvpn bind9 iptables-persistant netfilter-persistant
+apt install -y easy-rsa openvpn bind9 iptables-persistent netfilter-persistent
 ```
+* yes and yes
 ```
 cp -r /usr/share/easy-rsa/ /etc/
 ```
