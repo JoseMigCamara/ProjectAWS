@@ -75,6 +75,7 @@ make
 ```
 apt install -y nis
 ```
+⚠️This might take some time
 ```
 nano /etc/yp.conf
 ```
