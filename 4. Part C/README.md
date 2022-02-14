@@ -9,8 +9,7 @@ sudo hostnamectl set-hostname central.inova.pt
 ```
 sudo hostnamectl set-hostname wazuh.inova.pt
 ```
-
-
+---
 ```
 sudo su -
 ```
